@@ -42,5 +42,5 @@ programming, problem-solving and development skills.
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Your LinkedIn profile URL]
+- LinkedIn: https://www.linkedin.com/in/tanishka-raheja-606461331/
 - GitHub: https://github.com/tanishkarahejaa
